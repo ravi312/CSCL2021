@@ -257,13 +257,13 @@ Note:
 Open-ended nature of the challenges encouraged creative thinking as there was no single right answer. One of the powerful features of computationally powered graphics is the versatility of the designs that are possible during the learning process. 
 
 
-<!-- .slide: data-background-image="../assets/turtleBlocks/img/project-1.png"-->
+<!-- .slide: data-background="./assets/turtleBlocks/img/project-1.png"-->
 
 
-![](../assets/turtleBlocks/img/block-frequency.png)
+![](./assets/turtleBlocks/img/block-frequency.png)
 
 
-![](../assets/turtleBlocks/img/spider-chat.png)
+![](./assets/turtleBlocks/img/spider-chat.png)
 
 
 
@@ -297,5 +297,3 @@ Open-ended nature of the challenges encouraged creative thinking as there was no
 - _Noss, R., & Hoyles, C. (2017)._ **Constructionism and Microworlds.** In E. Duval, M. Sharples, & R. Sutherland (Eds.), Technology Enhanced Learning (pp. 29–35). Springer International Publishing.
 
 - _Resnick, M., Rosenbaum, E., (2013)._ **Designing for tinkerability**, in: Honey, M., Kanter, David.E. (Eds.), Design, Make, Play: Growing the next Generation of STEM Innovators. pp. 163–181.
-
-
