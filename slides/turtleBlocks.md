@@ -70,7 +70,7 @@ Poster presentation upcoming **CSCL 2021**.
 ## Research Questions
  <!-- .slide: data-background="./assets/turtleBlocks/turtle-hi-step.gif" -->
 <!-- .slide:  style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
-Main research questions we were curious to explore were* <!-- .element: class="fragment" data-fragment-index="1"-->
+We were curious to explore* <!-- .element: class="fragment" data-fragment-index="1"-->
 - How the design of an online collaborative engagement influenced the teaching-learning processes in the context of a microworld?<!-- .element: class="fragment" data-fragment-index="2"-->
   - _How does turtle blocks supports learning of core programming concepts?_<!-- .element: class="fragment" data-fragment-index="3"-->
   - _Which design features of the engagment worked well?_<!-- .element: class="fragment" data-fragment-index="4"-->
