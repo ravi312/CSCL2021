@@ -113,6 +113,10 @@ We were curious to explore* <!-- .element: class="fragment" data-fragment-index=
   - Thematic coding -> reflective entries discussion
   - Quantitative analysis -> blocks -> artefacts
 
+<footer class="fragment" data-fragment-index="1">
+1. Brennan, K., & Resnick, M. (2012)._ **New frameworks for studying and assessing the development of computational thinking.** 25
+</footer>
+
 
 
 ## Findings & Discussion
