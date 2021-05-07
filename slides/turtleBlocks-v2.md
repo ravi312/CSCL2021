@@ -97,7 +97,7 @@ We were curious to explore* <!-- .element: class="fragment" data-fragment-index=
 
 
 ## Research Design  
-<!-- .slide:   data-background="./assets/turtleBlocks/img/turtle-random.png" -->
+<!-- .slide:   data-background="./assets/turtleBlocks/img/project-1.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 - open invite, voluntary , online
 - heterogeneous group of young people and adults 
@@ -120,7 +120,7 @@ We were curious to explore* <!-- .element: class="fragment" data-fragment-index=
 
 
 ## Findings & Discussion
-<!-- .slide:   data-background="./assets/turtleBlocks/img/spider-chat-1.png" -->
+<!-- .slide:   data-background="./assets/turtleBlocks/img/block-frequency-1.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 - preference for certain types of blocks (sequencing, iteration and **randomization**)
 - Serendipitous discoveries
@@ -137,7 +137,7 @@ We were curious to explore* <!-- .element: class="fragment" data-fragment-index=
 
 
 ## References
-<!-- .slide:   data-background="./assets/turtleBlocks/img/turtle-random.png" -->
+<!-- .slide:   data-background="./assets/turtleBlocks/img/square-spiral-bg.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 - _Brennan, K., & Resnick, M. (2012)._ **New frameworks for studying and assessing the development of computational thinking.** 25
 
