@@ -58,7 +58,7 @@ transition: color .15s ease;
   }
 */
 </style>
-<!-- .slide: data-background="./assets/turtleBlocks/img/hi-2.png" -->
+<!-- .slide: data-background="./assets/turtleBlocks/img/hi-3.png" -->
 
 
 
