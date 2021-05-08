@@ -2,12 +2,6 @@
 .reveal section  {
 font-size: 0.7em;
 
-display: block;
-position: absolute;
-width: 40%;
-right:0;
-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.5);
-
 }
 .reveal table {
   margin-left: auto;
@@ -64,13 +58,7 @@ transition: color .15s ease;
   }
 */
 </style>
-
-## Exploring Turtle Blocks in online collaborative environment
- <!-- .slide: data-background="./assets/turtleBlocks/img/hi-2.png" -->
-<!-- .slide:  style="position: absolute; width: 60%;  right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
-(Ravi Sinha & Amit Dhakulkar)
-
-**CSCL 2021**,  10 June 2021
+<!-- .slide: data-background="./assets/turtleBlocks/img/hi-2.png" -->
 
 
 
