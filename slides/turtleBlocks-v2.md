@@ -66,11 +66,11 @@ transition: color .15s ease;
 </style>
 
 ## Exploring Turtle Blocks in online collaborative environment
- <!-- .slide: data-background="./assets/turtleBlocks/turtle-hi-step.gif" -->
+ <!-- .slide: data-background="./assets/turtleBlocks/img/hi-1.png" -->
 <!-- .slide:  style="position: absolute; width: 60%;  right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 (Ravi Sinha & Amit Dhakulkar)
 
-Poster presentation upcoming **CSCL 2021**.
+**CSCL 2021**,  10 June 2021
 
 
 
@@ -79,64 +79,56 @@ Poster presentation upcoming **CSCL 2021**.
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 -  Microworld: TurtleBlocks, Scratch et al. (inspired by LOGO)<!-- .element: class="fragment" data-fragment-index="1"-->
 - Visual programming advantages over text-based (Reopenning, 2017) <!-- .element: class="fragment" data-fragment-index="2"-->
-- tinkerability (Resnick and Resenbaum, 2013) <!-- .element: class="fragment" data-fragment-index="3"-->
-- different ways of knowing (Noss and Hoyles, 2017) <!-- .element: class="fragment" data-fragment-index="4"-->
-- low-floor, wide walls high ceilings<!-- .element: class="fragment" data-fragment-index="5"-->  
+- Tinkerability (Resnick and Resenbaum, 2013) <!-- .element: class="fragment" data-fragment-index="3"-->
+- Different ways of knowing (Noss and Hoyles, 2017) <!-- .element: class="fragment" data-fragment-index="4"-->
+- Low-floor, wide walls high ceilings<!-- .element: class="fragment" data-fragment-index="5"-->  
 
-We were curious to explore* <!-- .element: class="fragment" data-fragment-index="6"-->
-- How the design of an online collaborative engagement influenced the teaching-learning processes in the context of a microworld?<!-- .element: class="fragment" data-fragment-index="7"-->
-- What were the different approaches to problem solving attempted by participants?<!-- .element: class="fragment" data-fragment-index="8"-->
+**Research Question**  <!-- .element: class="fragment" data-fragment-index="6"-->
+
+We were curious to explore *<!-- .element: class="fragment" data-fragment-index="6"-->
+- RQ1: How the design of virtual engagement influenced the teaching-learning process in the context of a microworld?<!-- .element: class="fragment" data-fragment-index="6"-->
+- RQ2: What were the different approaches to problem solving attempted by participants?<!-- .element: class="fragment" data-fragment-index="7"-->
 
 <small>*detailed analysis of the engagement is not yet complete <!-- .element: class="fragment" data-fragment-index="1"--></small>
 
-<footer class="fragment" data-fragment-index="1">
-1. Noss, R., & Hoyles, C. (2017).Constructionism and Microworlds.In E. Duval, M. Sharples, & R. Sutherland (Eds.), Technology Enhanced Learning (pp. 29–35). Springer International Publishing.<br>
-2. Resnick, M., Rosenbaum, E., (2013).Designing for tinkerability, in: Honey, M., Kanter, David.E. (Eds.), Design, Make, Play: Growing the next Generation of STEM Innovators. pp. 163–181.
-</footer>
 
 
-
-## Research Design  
+## Research Design & Methodology  
 <!-- .slide:   data-background="./assets/turtleBlocks/img/project-1.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
-- open invite, voluntary , online
-- heterogeneous group of young people and adults 
+- Open invite, voluntary , online
+- Heterogeneous group of young people and adults 
 - Grade 4-5 (1), Grade 6-8 (2), Grade 9-12 (1), Adult (1)
 - Urban and semi-urban Indian settings
 - BBB(synchonous - screensharing, audio based); IM
 - Six sessions (1 hr) each ->  3 weeks
-- Design-challenge, Curated [wiki with exemplars](https://metastudio.org/t/turtleart-challenges-wiki/4036)
-- projects -> blocks -> concepts(Brennan and Resnik, 2012)
-> sequences, iterations, loops, data , events, conditionals, operators, and parallelism
-- **Data Sources:** Reflection Sheets, Project files, Discussions on the IM platform , Researcher Notes
-- **Mixed-method**:
-  - Thematic coding -> reflective entries discussion
-  - Quantitative analysis -> blocks -> artefacts
-
-<footer class="fragment" data-fragment-index="1">
-1. Brennan, K., & Resnick, M. (2012)._ **New frameworks for studying and assessing the development of computational thinking.** 25
-</footer>
+- Design-challenge, Curated [Wiki](https://metastudio.org/t/turtleart-challenges-wiki/4036) with exemplar
+- Projects -> blocks -> concepts(Brennan and Resnik, 2012)
+> Sequences, iterations, loops, data , events, conditionals, operators, and parallelism
+- **Data Analysis**
+  - Thematic coding -> reflective entries, IM chat, Notes
+  - Quantitative analysis ->  Project files
 
 
 
 ## Findings & Discussion
-<!-- .slide:   data-background="./assets/turtleBlocks/img/block-frequency-1.png" -->
+<!-- .slide:   data-background="./assets/turtleBlocks/img/block-frequency-2.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
-- preference for certain types of blocks (sequencing, iteration and **randomization**)
+- Preference for certain types of blocks (sequencing, iteration and **randomization**)
 - Serendipitous discoveries
 
-**R1: importance of gradual scaffolding of CT concepts**  
-- opportunities for non-linear exploration,  anchoring personally meaningful project challenges, certain programming concepts not very intuitive, easy to apply simple blocks in combination with repeat and random
+**RQ1: importance of gradual scaffolding of CT concepts**  
+- Opportunities for non-linear exploration,  anchoring personally meaningful project challenges, certain programming concepts not very intuitive, easy to apply simple blocks in combination with repeat and random
 
-**R2: Aspects of the engagement design that worked well**  
-- presenting only the challenges, wiki in beginning -> agency, design becomes objects to think with -> different levels of learners in the cohort -> created a ZPD -> support collaborative learning, diverse group and open-ended challenges proved to be useful.
+**RQ2: Aspects of the engagement design that worked well**  
+- Presenting only the challenges, wiki in beginning -> agency, design becomes objects to think with -> different levels of learners in the cohort -> created a ZPD -> support collaborative learning, diverse group and open-ended challenges proved to be useful.
 
->- infrastructural challenges identified during the study influence the learning process
-> - small sample and limited time frame of three weeks
+>- Infrastructural challenges identified during the study influence the learning process
+> - Small sample and limited time frame of three weeks
 
 
 
-## References
+## Selected References
 <!-- .slide:   data-background="./assets/turtleBlocks/img/square-spiral-bg.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
 - _Brennan, K., & Resnick, M. (2012)._ **New frameworks for studying and assessing the development of computational thinking.** 25
