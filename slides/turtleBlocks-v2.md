@@ -77,19 +77,19 @@ transition: color .15s ease;
 ## Introduction
 <!-- .slide:   data-background="./assets/turtleBlocks/img/turtle-random.png" -->
 <!-- .slide:  style="position: absolute; width: 60%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
--  Microworld: TurtleBlocks, Scratch et al. (inspired by LOGO)<!-- .element: class="fragment" data-fragment-index="1"-->
-- Visual programming advantages over text-based (Reopenning, 2017) <!-- .element: class="fragment" data-fragment-index="2"-->
-- Tinkerability (Resnick and Resenbaum, 2013) <!-- .element: class="fragment" data-fragment-index="3"-->
-- Different ways of knowing (Noss and Hoyles, 2017) <!-- .element: class="fragment" data-fragment-index="4"-->
-- Low-floor, wide walls high ceilings<!-- .element: class="fragment" data-fragment-index="5"-->  
+-  Microworld: TurtleBlocks, Scratch et al. (inspired by LOGO)
+- Visual programming advantages over text-based (Reopenning, 2017) 
+- Tinkerability (Resnick and Resenbaum, 2013) 
+- Different ways of knowing (Noss and Hoyles, 2017) 
+- Low-floor, wide walls high ceilings
 
-**Research Question**  <!-- .element: class="fragment" data-fragment-index="6"-->
+**Research Question**  
 
-We were curious to explore *<!-- .element: class="fragment" data-fragment-index="6"-->
-- RQ1: How the design of virtual engagement influenced the teaching-learning process in the context of a microworld?<!-- .element: class="fragment" data-fragment-index="6"-->
-- RQ2: What were the different approaches to problem solving attempted by participants?<!-- .element: class="fragment" data-fragment-index="7"-->
+We were curious to explore *
+- RQ1: How the design of virtual engagement influenced the teaching-learning process in the context of a microworld?
+- RQ2: What were the different approaches to problem solving attempted by participants?
 
-<small>*detailed analysis of the engagement is not yet complete <!-- .element: class="fragment" data-fragment-index="1"--></small>
+<small>*detailed analysis of the engagement is not yet complete </small>
 
 
 
