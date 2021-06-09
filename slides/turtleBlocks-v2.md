@@ -58,6 +58,7 @@ transition: color .15s ease;
   }
 */
 </style>
+
 <!-- .slide: data-background="./assets/turtleBlocks/img/hi-3.png" -->
 
 
@@ -80,6 +81,9 @@ We were curious to explore *
 <small>*detailed analysis of the engagement is not yet complete </small>
 
 
+<!-- .slide: data-background="./assets/turtleBlocks/turtle-random.gif" -->
+
+
 
 ## Research Design & Methodology  
 <!-- .slide:   data-background="./assets/turtleBlocks/img/project-1.png" -->
@@ -95,7 +99,24 @@ We were curious to explore *
 > Sequences, iterations, loops, data , events, conditionals, operators, and parallelism
 - **Data Analysis**
   - Thematic coding -> reflective entries, IM chat, Notes
+  - Thematic artefacts analysis
   - Quantitative analysis ->  Project files
+
+
+## Session-wise plan
+<!-- .slide: data-background-transition="none" data-background-image="./assets/turtle-spiral.gif" -->
+<!-- .slide:  style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
+|Session|New Blocks|Computational Concepts|
+|---|---|---|
+|S1: Simple polygons: square & triangle<!-- .element: class="fragment" data-fragment-index="1"-->| forward, left, back, right<!-- .element: class="fragment" data-fragment-index="1"-->| sequences<!-- .element: class="fragment" data-fragment-index="1"-->|
+|S2: Rainbow spoke art<!-- .element: class="fragment" data-fragment-index="2"-->| repeat & forever ; for & while; random <!-- .element: class="fragment" data-fragment-index="2"-->|sequences, loops<!-- .element: class="fragment" data-fragment-index="2"-->|
+|S3: Spiral square <!-- .element: class="fragment" data-fragment-index="3"-->| boxes (stepping variable) <!-- .element: class="fragment" data-fragment-index="3"-->|sequences, loops, data<!-- .element: class="fragment" data-fragment-index="3"-->|
+|S4: Documentation: OER, citation; uneven multi-colour disk<!-- .element: class="fragment" data-fragment-index="4"-->| random with forward<!-- .element: class="fragment" data-fragment-index="4"--> |sequences, loops, data<!-- .element: class="fragment" data-fragment-index="4"-->|
+|S5: Polygons and shapes <!-- .element: class="fragment" data-fragment-index="5"-->| IF; Action (conditional statement and function) <!-- .element: class="fragment" data-fragment-index="5"-->|sequences, loops, events, conditionals, data<!-- .element: class="fragment" data-fragment-index="5"-->|
+|S6: VIBGYOR Wheel<!-- .element: class="fragment" data-fragment-index="6"--> | IF-ELSE; OR AND (boolean operators, coordinates) <!-- .element: class="fragment" data-fragment-index="6"-->| sequences, loops, events, conditionals, operators, and data<!-- .element: class="fragment" data-fragment-index="6"-->|
+
+
+<!-- .slide: data-background="./assets/turtleBlocks/turtle-wiki.gif" -->
 
 
 
@@ -124,3 +145,11 @@ We were curious to explore *
 - _Noss, R., & Hoyles, C. (2017)._ **Constructionism and Microworlds.** In E. Duval, M. Sharples, & R. Sutherland (Eds.), Technology Enhanced Learning (pp. 29–35). Springer International Publishing.
 
 - _Resnick, M., Rosenbaum, E., (2013)._ **Designing for tinkerability**, in: Honey, M., Kanter, David.E. (Eds.), Design, Make, Play: Growing the next Generation of STEM Innovators. pp. 163–181.
+
+
+
+<!-- .slide:   data-background="./assets/turtleBlocks/img/project-portfolio.png" -->
+
+
+
+<!-- .slide:   data-background="./assets/turtleBlocks/img/turtle-favArt.png" -->
