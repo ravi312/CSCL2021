@@ -149,7 +149,10 @@ We were curious to explore *
 
 
 <!-- .slide:   data-background="./assets/turtleBlocks/img/project-portfolio.png" -->
+<!-- .slide:  style="position: absolute; width: 21%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left"-->
+Gallery of TurtleArtists!
 
 
 
 <!-- .slide:   data-background="./assets/turtleBlocks/img/turtle-favArt.png" -->
+
