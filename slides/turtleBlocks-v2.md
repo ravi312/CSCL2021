@@ -126,7 +126,7 @@ We were curious to explore *
 - Serendipitous discoveries
 
 **RQ1: importance of gradual scaffolding of CT concepts**  
-- Opportunities for non-linear exploration,  anchoring personally meaningful project challenges, certain programming concepts not very intuitive, easy to apply simple blocks in combination with repeat and random
+- Opportunities for non-linear exploration,  anchoring personally meaningful project challenges, certain programming concepts not very intuitive, Preference for certain types of blocks(easier to apply simple blocks in combination with repeat and random)
 
 **RQ2: Problem solving approaches**  
 - Presenting only the challenges, wiki in beginning -> agency, design becomes objects to think with -> different levels of learners in the cohort -> created a ZPD -> support collaborative learning, diverse group and open-ended challenges proved to be useful.
