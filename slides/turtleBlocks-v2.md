@@ -78,7 +78,6 @@ We were curious to explore *
 - RQ1: How the design of virtual engagement influenced the teaching-learning process in the context of a microworld?
 - RQ2: What were the different approaches to problem solving attempted by participants?
 
-<small>*detailed analysis of the engagement is not yet complete </small>
 
 
 <!-- .slide: data-background="./assets/turtleBlocks/turtle-random.gif" -->
@@ -129,7 +128,7 @@ We were curious to explore *
 **RQ1: importance of gradual scaffolding of CT concepts**  
 - Opportunities for non-linear exploration,  anchoring personally meaningful project challenges, certain programming concepts not very intuitive, easy to apply simple blocks in combination with repeat and random
 
-**RQ2: Aspects of the engagement design that worked well**  
+**RQ2: Problem solving approaches**  
 - Presenting only the challenges, wiki in beginning -> agency, design becomes objects to think with -> different levels of learners in the cohort -> created a ZPD -> support collaborative learning, diverse group and open-ended challenges proved to be useful.
 
 >- Infrastructural challenges identified during the study influence the learning process
